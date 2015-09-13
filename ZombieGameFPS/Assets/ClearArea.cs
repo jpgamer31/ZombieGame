@@ -3,7 +3,6 @@ using System.Collections;
 
 public class ClearArea : MonoBehaviour {
 	public float timeSinceLastTrigger = 0f;
-	private bool triggerfix=false;
 	// Use this for initialization
 	void Start () {
 	
